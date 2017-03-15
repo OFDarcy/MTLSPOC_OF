@@ -1,0 +1,7 @@
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\bin\Debug\MyServer.pfx
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\bin\Debug\MutualSslPoc.Server.exe.config
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\bin\Debug\MutualSslPoc.Server.exe
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\bin\Debug\MutualSslPoc.Server.pdb
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\obj\x86\Debug\OF_ServerAPI.csprojResolveAssemblyReference.cache
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\obj\x86\Debug\MutualSslPoc.Server.exe
+C:\Users\dpatel\Downloads\MutualSslPOC\OF_ServerAPI\obj\x86\Debug\MutualSslPoc.Server.pdb

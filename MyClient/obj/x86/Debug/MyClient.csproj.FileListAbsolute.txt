@@ -1,0 +1,17 @@
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\bin\Debug\MyClient.pfx
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\bin\Debug\MutualSslDemo.Client.exe.config
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\bin\Debug\MutualSslDemo.Client.exe
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\bin\Debug\MutualSslDemo.Client.pdb
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\obj\x86\Debug\MutualSslDemo.Client.exe
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\obj\x86\Debug\MutualSslDemo.Client.pdb
+C:\Users\dpatel\Downloads\MutualSslDemo\MyClient\obj\x86\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\bin\Debug\MutualSslPoc.Client.exe.config
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\bin\Debug\MyClient.pfx
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\bin\Debug\MutualSslPoc.Client.exe
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\bin\Debug\MutualSslPoc.Client.pdb
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\obj\x86\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\obj\x86\Debug\MutualSslPoc.Client.exe
+C:\Users\dpatel\Downloads\MutualSslPOC\MyClient\obj\x86\Debug\MutualSslPoc.Client.pdb
+C:\Projects\GitHub\MTLSPOC_OF\MTLSPOC_OF\MyClient\bin\Debug\MutualSslPoc.Client.exe.config
+C:\Projects\GitHub\MTLSPOC_OF\MTLSPOC_OF\MyClient\obj\x86\Debug\MutualSslPoc.Client.exe
+C:\Projects\GitHub\MTLSPOC_OF\MTLSPOC_OF\MyClient\obj\x86\Debug\MutualSslPoc.Client.pdb

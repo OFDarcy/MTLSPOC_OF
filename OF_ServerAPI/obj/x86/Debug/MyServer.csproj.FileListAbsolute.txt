@@ -1,0 +1,7 @@
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\bin\Debug\MyServer.pfx
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\bin\Debug\MutualSslDemo.Server.exe.config
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\bin\Debug\MutualSslDemo.Server.exe
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\bin\Debug\MutualSslDemo.Server.pdb
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\obj\x86\Debug\MyServer.csprojResolveAssemblyReference.cache
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\obj\x86\Debug\MutualSslDemo.Server.exe
+C:\Users\dpatel\Downloads\MutualSslDemo\MyServer\obj\x86\Debug\MutualSslDemo.Server.pdb
